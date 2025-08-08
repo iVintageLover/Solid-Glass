@@ -3,7 +3,7 @@
 
 Apple calls their new design language Liquid Glass — so naturally, this theme is called Solid Glass. Get it?
 
-Solid glass is a theme that brings the fresh iOS 26 beta 1 icons to older jailbreakable devices, but with subtle enhancements to better match older icon styles. This isn't just a straight port as I’ve optimized it to feel native on older versions, from icon corner radius to contrast levels. 
+Solid glass is a theme that brings the fresh iOS 26 Liquid Glass icons to older jailbreakable devices, now with Dark Mode icon supprt! This isn't just a straight port as I’ve optimized it to feel native on older versions, from icon corner radius to contrast levels. 
 
 ![branding](https://github.com/user-attachments/assets/91c3476f-ed3d-4a38-af7d-f2634d43bae3)
 
