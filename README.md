@@ -1,4 +1,4 @@
-##Now available on iVIntageRepo: ivintagelover.github.io/repo
+## Now available on iVIntageRepo: ivintagelover.github.io/repo
 
 # Solid Glass
 ![banner](https://github.com/user-attachments/assets/d3f07c55-1a19-4bfa-9370-f76e8c20dd73)
