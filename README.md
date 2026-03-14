@@ -1,7 +1,7 @@
 ## Now available on iVintageRepo: ivintagelover.github.io/repo
 
 # Solid Glass
-![ok](https://github.com/user-attachments/assets/ee45de04-57cc-4a6c-822e-b4fb15be2691)
+![preview](https://github.com/user-attachments/assets/a8eca5f9-deeb-4516-b1ca-ca0f18b94943)
 
 
 Apple calls their new design language Liquid Glass so naturally I had to call this Solid Glass. Get it?
