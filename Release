@@ -1,0 +1,12 @@
+Origin: VintageRepo
+Label: VintageRepo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Repo for iVintageLover's Jailbreak Tweaks.
+
+SHA256:
+ 4b83f517b00b513a0aaead9e4704e035c36e17884080bb6b07b6f4b50fa1496d 1113 Packages.bz2
+ 64c675a412543e49d9d0d49f7f1c072735eb80ad17f320175236c9e37f39c30f 1048 Packages.xz
