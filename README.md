@@ -12,7 +12,7 @@ built around Human Interface Guidelines
 
 
 ### 
-Solid Glass is a theme that brings the fresh new iOS 27 Liquid Glass icons to older jailbreakable devices. Now with 3 beautiful modes: Light, Tinted and Dark. Optimized to feel native on older versions, from icon corner radius to contrast levels. 
+Solid Glass is a theme that brings the fresh new iOS 27 Liquid Glass icons to older jailbreakable devices. Now with 3 beautiful modes: Light, Clear Light, Clear Dark and regular Dark. Optimized to feel native on older versions, from icon corner radius to contrast levels. 
 
 ![branding](https://github.com/user-attachments/assets/91c3476f-ed3d-4a38-af7d-f2634d43bae3)
 
