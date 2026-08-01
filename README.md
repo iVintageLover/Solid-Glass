@@ -27,6 +27,13 @@ Clear icons are built with 3 distinct layers:
 * The main Background;
 * Specular for light reflections;
 * The actual object itself defining each icon.
+
+# Requirements
+* **Settings icons** requires *SnowBoard Settings Icons Extension*;
+* **Status Bar** requires *SnowBoard StatusBar Extension*;
+* **Icon Masks** requires *SnowBoard Icon Masks Extension*.
+
+*These extensions are natively included in **Anemone**, you'll only need these if you're using **SnowBoard**.*
   
 
 ![branding](https://github.com/user-attachments/assets/91c3476f-ed3d-4a38-af7d-f2634d43bae3)
