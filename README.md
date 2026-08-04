@@ -19,7 +19,7 @@ Featuring the all new **Solid Glass 18** for those who prefer the flat design.
 <img width="748" height="465" alt="Screenshot 2026-07-26 at 5 48 17 PM" src="https://github.com/user-attachments/assets/cbcd3ad5-a3ca-4e4a-93a6-a83bdcfe7c5c" />
 
 # Clear Icon Architecture
-Every Clear variant is handcrafted using a multi-layer stack to deliver realistic glass refraction and specular reflections while revealing your wallpaper.
+Every Clear variant is handcrafted using a multi-layer stack to deliver realistic glass effect and specular reflections while revealing your wallpaper.
 
 <img width="834" height="501" alt="Screenshot 2026-07-26 at 5 54 35 PM" src="https://github.com/user-attachments/assets/c50ddd73-9b7f-4dea-b345-2e3502fd14fe" />
 
